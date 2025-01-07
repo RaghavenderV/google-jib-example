@@ -11,7 +11,7 @@ public class GoogleJibExampleApplication {
 
 	@GetMapping("/")
 	public String message(){
-		return "Dockerize java application using Google jib plug-in";
+		return "Dockerized java application using Google jib plug-in";
 	}
 
 	public static void main(String[] args) {
