@@ -59,6 +59,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>google-jib-service</finalName>
 	</build>
 
 </project>
